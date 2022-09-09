@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main -print the string in the put function
+ * main - Printing
  *
- * Description: using main
- * this program prints text message
- * return: 0
+ * Return Always 0 (Successful)
  */
 int main(void)
 {
