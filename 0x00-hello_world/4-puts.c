@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * we are printing main- Printing
+ * 
+ * main - we are printing main- Printing
  *
- * prints txt
+ * Description: using the main function
  *
  * Return 0 (when successful)
  *
