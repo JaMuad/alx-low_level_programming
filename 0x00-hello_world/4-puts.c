@@ -3,9 +3,9 @@
 /**
  * we are printing main- Printing
  *
- * this program then will print out the text Programming is like building a multilingual puzzle
+ * prints txt
  *
- * Return should always 0 (when successful)
+ * Return 0 (when successful)
  *
  */
 
