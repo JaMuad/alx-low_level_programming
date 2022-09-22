@@ -2,8 +2,9 @@
 #define MAIN_H
 
 /**
- * main.h
- * content: Header file containing prototypes for all functions
+ * File: main.h
+ * Auth: JaMuad(Muad)
+ * Desc: Header file containing prototypes for all functions
  * used in the 0x06. C - More pointers, arrays and strings directory
  */
 int _putchar(char c);
